@@ -1,4 +1,3 @@
-/*
 // Объекты: основы / Объекты / task 1 - Привет, object
 interface User {
     name?: string;
@@ -51,7 +50,6 @@ const totalSum = (salaries: Salary): number => {
 }
 console.log(totalSum(salaries));
 
-*/
 
 // Объекты: основы / Объекты / task 4 - Умножаем все числовые свойства на 2
 
